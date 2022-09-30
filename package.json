@@ -1,0 +1,26 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoukvanbogaert/iss_spotter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoukvanbogaert/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/anoukvanbogaert/iss_spotter#readme"
+}
